@@ -1,3 +1,12 @@
 [submodule "libs/calctype"]
 	path = libs/calctype
 	url = https://github.com/tari/calctype.git
+[submodule "libs/ptune2_simple"]
+	path = libs/ptune2_simple
+	url = https://github.com/tari/ptune2_simple
+[submodule "libs/zx7"]
+	path = libs/zx7
+	url = https://github.com/tari/prizm-zx7
+[submodule "libs/snd"]
+	path = libs/snd
+	url = https://github.com/tari/prizm-snd
