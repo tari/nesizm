@@ -1,1 +1,1 @@
-..\..\bin\make.exe %*
+%FXCGSDK%\bin\make.exe %*
