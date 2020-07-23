@@ -1,0 +1,3 @@
+[submodule "libs/calctype"]
+	path = libs/calctype
+	url = https://github.com/tari/calctype.git
